@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Francis D Souza</h1>
 <h3 align="center">Computer Science & AI/ML Student | Passionate About AI, Data Analysis & Full-Stack Development |</h3>
 
-- 🔭 I’m currently working on [GesturePilot](https://gesturepilot-landing.vercel.app/)
+- 🔭 I’m currently working in [pixlNext](https://www.pixlnext.tech/)
 
 - 🌱 I’m currently learning **Honours degree in Computer Science with a specialization in Artificial Intelligence and Machine Learning**
 
 - 🤝 I’m looking for help with **Fall 2025 CO-OP**
 
-- 👨‍💻 All of my projects are available at [https://francisdsouza.me/](https://francisdsouza.me/)
+- Checkout my portfolio at [https://francisdsouza.me/](https://francisdsouza.me/)
 
 - 📫 How to reach me **frankdso5563@gmail.com**
 
