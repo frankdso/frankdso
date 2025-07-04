@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Honours degree in Computer Science with a specialization in Artificial Intelligence and Machine Learning**
 
-- 🤝 I’m looking for help with **Fall 2025 CO-OP**
+- 🤝 Incoming **Fall 2025 CO-OP** @Cliniconex 
 
 - Checkout my portfolio at [https://francisdsouza.me/](https://francisdsouza.me/)
 
